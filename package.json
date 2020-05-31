@@ -1,0 +1,20 @@
+{
+  "name": "sentitweets",
+  "version": "1.0.0",
+  "description": "using sentiment analysis on tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "*",
+    "sentiment": "^5.0.1",
+    "twitter": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "Shrangi",
+  "license": "ISC"
+}
